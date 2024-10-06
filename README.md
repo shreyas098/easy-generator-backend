@@ -32,8 +32,8 @@ The application connects to MongoDB running on `localhost:27017`. Ensure that yo
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/shreyas098/easy-generator-backend.git
+   cd easy-generator-backend
    ```
 
 2. Install the dependencies:
