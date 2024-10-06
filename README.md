@@ -95,10 +95,7 @@ For more information about NestJS, visit the [NestJS Documentation](https://docs
 
 
 ## Stay in Touch
-
-- Author - [Your Name](https://twitter.com/yourtwitterhandle)
-- Website - [Your Website](https://yourwebsite.com)
-- LinkedIn - [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+- LinkedIn - [Shreyash Shetty](https://www.linkedin.com/in/shreyash-shetty/)
 
 ## License
 
